@@ -9,7 +9,7 @@
 - Network Analysis
   -  [Analyzing Network Traffic Between Azure Virtual Machines](https://github.com/kyledbusiness/azure-network-protocols)
 - Enterprise Endpoint Management (MDM)
-  -  [Building an Enterprise Endpoint Management Environment with Microsoft Intune, JAMF Pro, and VMware](https://github.com/kyledbusiness/enterprise-endpoint-management))
+  -  [Building an Enterprise Endpoint Management Environment with Microsoft Intune, JAMF Pro, and VMware](https://github.com/kyledbusiness/enterprise-endpoint-management)
  
 <h2>Certifications 🏆</h2>
 
