@@ -1,13 +1,4 @@
-## Hi, I'm Kyle, a [Cybersecurity Support Analyst](https://www.linkedin.com/in/kyledbusiness/) 👋🏾
-
-<h2>🛜🛡️ Cybersecurity Projects:</h2>
-  
-- Vulnerability Management
-  - **[Vulnerability Management Program Implementation](https://github.com/kyledbusiness/vulnerability-management-program)**
-  - **[STIG Implementations (PowerShell)](https://github.com/kyledbusiness/stig-implementations)**
-
-- Threat Hunting and Security Operations
-  - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kyledbusiness/threat-hunting-scenario-tor)**
+## Hi, I'm Kyle, an [IT Support Specialist](https://www.linkedin.com/in/kyledbusiness/) 👋🏾
 
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
 
@@ -26,6 +17,15 @@
 - [CompTIA A+](https://www.credly.com/badges/7812f477-e7e3-4bf9-8531-4db05d27691f/linked_in?t=slgu5y)
 - [CompTIA Security](https://www.credly.com/badges/d4fc1be7-6004-4cad-bf5e-00bd82995ca7/public_url)
 - [Microsoft Certified: Azure Security Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/kyledbusiness/CF707FB8436DDCB9?sharingId=DEA29E9FB96B5EF2)
+
+<h2>🛜🛡️ Cybersecurity Projects (Coming Soon):</h2>
+  
+- Vulnerability Management
+  - **[Vulnerability Management Program Implementation](https://github.com/kyledbusiness/vulnerability-management-program)**
+  - **[STIG Implementations (PowerShell)](https://github.com/kyledbusiness/stig-implementations)**
+
+- Threat Hunting and Security Operations
+  - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kyledbusiness/threat-hunting-scenario-tor)**
 
 <h2>📲 Connect with me</h2>
 
