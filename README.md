@@ -1,4 +1,4 @@
-## Hi, I'm Kyle, an [IT Support Specialist](https://www.linkedin.com/in/kyledbusiness/) 👋🏾
+## Hi, I'm Kyle, an [IT Technician](https://www.linkedin.com/in/kyledbusiness/) 👋🏾
 
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
 
