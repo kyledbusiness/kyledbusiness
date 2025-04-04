@@ -7,7 +7,7 @@
 - Help Desk Ticketing System
   - **[Building a Help Desk Ticketing System: From Server Setup to Ticket Resolution with osTicket](https://github.com/kyledbusiness/ticketing-system)**
 - Network Analysis
-  - **[Analyzing Network Traffic Between Azure Virtual Machines](https://github.com/kyledbusiness/azure-network-protocols)**
+  - **[Analyzing Network Traffic Between Azure Virtual Machines](https://github.com/kyledbusiness/azure-network-security)**
  
 <h2>🏆 Certifications</h2>
 
