@@ -11,7 +11,6 @@
  
 <h2>🏆 Certifications</h2>
 
-- [CourseCareers Information Technology Professional](https://coursecareers.com/courses/explore/it)
 - [CompTIA A+](https://www.credly.com/badges/7812f477-e7e3-4bf9-8531-4db05d27691f/linked_in?t=slgu5y)
 - [CompTIA Security+](https://www.credly.com/badges/d4fc1be7-6004-4cad-bf5e-00bd82995ca7/public_url)
 - [Microsoft Certified: Azure Security Engineer Associate (AZ-500)](https://learn.microsoft.com/api/credentials/share/en-us/kyledbusiness/CF707FB8436DDCB9?sharingId=DEA29E9FB96B5EF2)
