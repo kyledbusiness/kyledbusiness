@@ -6,7 +6,7 @@
   - **[What are Access Controls](https://github.com/kyledbusiness/access-controls)**
 - Vulnerability Management
   - **[Vulnerability Management Program Implementation](https://github.com/kyledbusiness/vulnerability-management-program)**
-  - **[Programmatic Vulnerability Remediations/STIG Implementations (PowerShell and BASH)](https://github.com/kyledbusiness/stig-implementations)**
+  - **[Programmatic Vulnerability Remediations / STIG Implementations (PowerShell and BASH)](https://github.com/kyledbusiness/stig-implementations)**
 - Threat Hunting and Security Operations
   - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kyledbusiness/threat-hunting-scenario-tor)**
 
