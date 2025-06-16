@@ -1,4 +1,4 @@
-## Hi, I'm Kyle, an [Identity Access Management Engineer](https://www.linkedin.com/in/kyledbusiness/) 👋🏾
+## Hi, I'm Kyle, an [Identity Access Management Analyst](https://www.linkedin.com/in/kyledbusiness/) 👋🏾
 
 <h2>🛜🛡️ Cybersecurity Projects (In Progress):</h2>
 
