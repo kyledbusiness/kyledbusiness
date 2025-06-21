@@ -3,6 +3,7 @@
 <h2>🛜🛡️ Cybersecurity Projects (In Progress):</h2>
 
 - Identity Access Management
+  - **[IAM Lifecycle Automation Lab](https://github.com/kyledbusiness/iam-lifecycle-automation-lab)**
   - **[What are Access Controls](https://github.com/kyledbusiness/access-controls)**
 - Vulnerability Management
   - **[Vulnerability Management Program Implementation](https://github.com/kyledbusiness/vulnerability-management-program)**
