@@ -1,8 +1,9 @@
-## Hi, I'm Kyle, an [IT Technician](https://www.linkedin.com/in/kyledbusiness/) 👋🏾
+## Hi, I'm Kyle, an [IAM Analyst](https://www.linkedin.com/in/kyledbusiness/) 👋🏾
 
 <h2>🛜🛡️ Cybersecurity Projects (In Progress):</h2>
 
 - Identity Access Management
+  - **[Basic Employee Onboarding (AD)(RBAC) Lab](https://github.com/kyledbusiness/Basic-Employee-Onboarding-AD-RBAC-)**
   - **[IAM Lifecycle Automation Lab](https://github.com/kyledbusiness/iam-lifecycle-automation-lab)**
   - **[What are Access Controls?](https://github.com/kyledbusiness/access-controls)**
 - Vulnerability Management
