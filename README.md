@@ -3,8 +3,10 @@
 <h2>🛜🛡️ Cybersecurity Projects (In Progress):</h2>
 
 - Identity Access Management
-  - **[Basic Employee Onboarding (AD)(RBAC) Lab](https://github.com/kyledbusiness/Basic-Employee-Onboarding-AD-RBAC-)**
-  - **[IAM Lifecycle Automation Lab](https://github.com/kyledbusiness/iam-lifecycle-automation-lab)**
+  - **[Building Northstar Medical Group’s employee JML life-cycle](https://github.com/kyledbusiness/jml-nmg)**
+  - **[Access Review for Northstar Medical Group](https://github.com/kyledbusiness/access-review-nmg)**
+  - **[Basic Employee Onboarding (AD)(RBAC) Lab](https://github.com/kyledbusiness/Basic-Employee-Onboarding-AD-RBAC)**
+  - **[Cyber Range IAM Lifecycle Investigation Lab](https://github.com/kyledbusiness/iam-lifecycle-automation-lab)**
   - **[What are Access Controls?](https://github.com/kyledbusiness/access-controls)**
 - Vulnerability Management
   - **[Vulnerability Management Program Implementation](https://github.com/kyledbusiness/vulnerability-management-program)**
