@@ -5,7 +5,7 @@
 - Identity Access Management
   - **[Building Northstar Medical Group’s employee JML life-cycle](https://github.com/kyledbusiness/jml-nmg)**
   - **[Access Review for Northstar Medical Group](https://github.com/kyledbusiness/access-review-nmg)**
-  - **[Basic Employee Onboarding (AD)(RBAC) Lab](https://github.com/kyledbusiness/Basic-Employee-Onboarding-AD-RBAC)**
+  - **[Basic Employee Onboarding (AD)(RBAC) Lab for Northstar Medical Group](https://github.com/kyledbusiness/Basic-Employee-Onboarding-AD-RBAC)**
   - **[Cyber Range IAM Lifecycle Investigation Lab](https://github.com/kyledbusiness/iam-lifecycle-automation-lab)**
   - **[What are Access Controls?](https://github.com/kyledbusiness/access-controls)**
 - Vulnerability Management
