@@ -1,11 +1,11 @@
 ## Hi, I'm Kyle, an [IAM Analyst](https://www.linkedin.com/in/kyledbusiness/) 👋🏾
 
-<h2>🛜🛡️ Cybersecurity Projects (In Progress):</h2>
+<h2>🛜🛡️ Cybersecurity Projects:</h2>
 
 - Identity Access Management
+  - **[Identity Automation with Powershell for Northstar Medical Group](https://github.com/kyledbusiness/nmg-identity-automation)**
   - **[Building Northstar Medical Group’s employee JML life-cycle](https://github.com/kyledbusiness/jml-nmg)**
   - **[Access Review for Northstar Medical Group](https://github.com/kyledbusiness/access-review-nmg)**
-  - **[Basic Employee Onboarding (AD)(RBAC) Lab for Northstar Medical Group](https://github.com/kyledbusiness/Basic-Employee-Onboarding-AD-RBAC)**
   - **[Cyber Range IAM Lifecycle Investigation Lab](https://github.com/kyledbusiness/iam-lifecycle-automation-lab)**
   - **[What are Access Controls?](https://github.com/kyledbusiness/access-controls)**
 - Vulnerability Management
