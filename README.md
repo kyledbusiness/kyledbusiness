@@ -3,8 +3,8 @@
 <h2>🛜🛡️ Cybersecurity Projects:</h2>
 
 - Identity Access Management
-  - **[Full Identity Lifecycle Automation with Microsoft Entra ID - Dynamic Groups, Passwordless Authentication, Powershell](https://github.com/kyledbusiness/Entra-Automated-JML)**
   - **[Enterprise IAM Engineering with Microsoft Entra ID - SSO, PIM, MFA, Conditional Access, Access Reviews](https://github.com/kyledbusiness/Cedarbridge-Enterprise-IAM)**
+  - **[Full Identity Lifecycle Automation with Microsoft Entra ID - Dynamic Groups, Passwordless Authentication, Powershell](https://github.com/kyledbusiness/Entra-Automated-JML)**
   - **[Identity Lifecycle Leaver Automation with Powershell in Active Directory](https://github.com/kyledbusiness/nmg-identity-automation)**
   - **[PKI Certificate Lifecycle & SAML Trust Engineering in Entra ID](https://github.com/kyledbusiness/CHS-SAML-Certificate-Lifecycle)**
   - **[Role Based Access Control in Active Directory](https://github.com/kyledbusiness/Basic-Employee-Onboarding-AD-RBAC)**
