@@ -3,7 +3,8 @@
 <h2>🛜🛡️ Cybersecurity Projects:</h2>
 
 - Identity Access Management
-  - [Enterprise IAM Engineering with Microsoft Entra ID - SSO, PIM, MFA, Conditional Access, Access Reviews](https://github.com/kyledbusiness/Cedarbridge-Enterprise-IAM)
+  - **[Full Identity Lifecycle Automation with Microsoft Entra ID - Dynamic Groups, Passwordless Authentication, Powershell](https://github.com/kyledbusiness/Entra-Automated-JML)**
+  - **[Enterprise IAM Engineering with Microsoft Entra ID - SSO, PIM, MFA, Conditional Access, Access Reviews](https://github.com/kyledbusiness/Cedarbridge-Enterprise-IAM)**
   - **[Identity Lifecycle Leaver Automation with Powershell for Northstar Medical Group](https://github.com/kyledbusiness/nmg-identity-automation)**
   - **[Role Based Access Control in Active Directory for Northstar Medical Group](https://github.com/kyledbusiness/Basic-Employee-Onboarding-AD-RBAC)**
   - **[Building the JML life-cycle for Northstar Medical Group](https://github.com/kyledbusiness/jml-nmg)**
